@@ -101,7 +101,7 @@ $(document).ready(function() {
         //fade out animation with callback
         quoteContainer.fadeOut(timeAnimation, function() {
             //quoteContainer.html('');
-            quoteContainer.append('<h1>Todo</h1><ol><li>82</li><li>AW</li><li>WGU?.</li><li>IMMI?.</li><li>METEOR?.</li></ol><br><br><br><br><br><br><br>'+'<p>' + newQuoteText + '</p>' + '<p id="quoteGenius">' + '-								' + newQuoteGenius + '</p>');
+            quoteContainer.append('<h1>Todo</h1><ol><li>LS</li><li>82</li><li>AW</li><li>WGU?.</li><li>IMMI?.</li><li>METEOR?.</li></ol><br><br><br><br><br><br><br>'+'<p>' + newQuoteText + '</p>' + '<p id="quoteGenius">' + '-								' + newQuoteGenius + '</p>');
 
 
 
